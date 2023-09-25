@@ -1,0 +1,68 @@
+body {
+    font-family: 'Croissant One', cursive;
+    font-family: 'Lato', sans-serif;
+    margin: 0 auto;
+}
+
+/* section-1 CSS start */
+
+section {
+    display: flex;
+    padding: 5%;
+
+}
+
+.section-bkg-img {
+    background-image: url(picture/background1.jpg);
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: auto;
+}
+
+.sect1-div {
+    width: 50%;
+    padding-left: 2%;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.h1-span {
+    color: orange;
+}
+
+.hire-me {
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 900px;
+}
+
+.sect1-div img {
+    width: auto;
+    border-radius: 50px;
+    margin-left: 20%;
+}
+
+
+/* section-1 CSS end */
+/*
+
+.-st-sec-bg{
+    background-image: url(picture/background1.jpg);
+    background-repeat: no-repeat;
+    width: auto;
+    height: 50%;
+}
+   
+
+.-st-sec2-nd img{
+    width: auto;
+    height: auto;
+    padding: 50%;
+    border-radius: 400px;
+}
